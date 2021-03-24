@@ -1,19 +1,14 @@
 ### Olá, Meu nome é Vinicius :)
 
-<!--
-**ViniciusClaudomir/ViniciusClaudomir** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p>🔭 Atualmente trabalho como desenvolvedor Python & JS, com foco em Desenvolvimento de RPA's e Soluções web.</p>
 
-Here are some ideas to get you started:
+<p>🌱 Comecei a estudar programação ainda quando criança e sempre adorei entender como as coisas funcionam, e por isso desde sempre gostei de explorar novas tecnologias
+que possam me ajudar cada vez mais nos meus projetos.</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p>✍️ Ultimamente ando focado em aprender cada vez mais sobre desenvolvimento web, desde a aplicação ao deploy</p>
+
+
+
 🛠 &nbsp;Software and tools skills 
  <p align="start" style="padding:10px;">
  
@@ -22,6 +17,8 @@ Here are some ideas to get you started:
  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
  <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></img>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></img>
+ <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"></img>
+
  
  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></img>
