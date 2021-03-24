@@ -7,6 +7,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 <p>✍️ Ultimamente ando focado em aprender cada vez mais sobre desenvolvimento web, desde a aplicação ao deploy</p>
 
+<p>⚙️ Atualmente meu site <a href="http://thevinicius.com/"><img src="https://img.shields.io/badge/-The%20Vinicius-lightgrey"></img></a> esta em manutenção, mas logo logo volta :) 
 
 
 ### 🛠 &nbsp;Software and tools skills 
