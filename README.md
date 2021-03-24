@@ -62,7 +62,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 </p>
 
 ### 🤝 Social media
-<a href="linkedin.com/in/vinicius-claudomir-26026017a">
+<a href="https://linkedin.com/in/vinicius-claudomir-26026017a">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
  </a>
  
