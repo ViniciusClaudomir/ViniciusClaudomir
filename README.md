@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠 &nbsp;Software and tools skills 
-<p align="center">
+<p align="start" style="padding:10px;">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
@@ -31,18 +31,25 @@ Here are some ideas to get you started:
  </p>
   
 💾 &nbsp;ODBC
+<p align="start" style="padding:10px;">
+    <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
+ </p>
 
-![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
-![Oracle](https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white)
-![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+
 
 💻 &nbsp; SO Plataform
+<p align="start" style="padding:10px;">
+    <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
+    <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'"></img>
+ </p>
 
-![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows]()
+![Ubuntu]()
 
 ⚙️ &nbsp;GitHub Analytics
-<p align="center">
+<p align="start">
 <a href="https://github.com/ViniciusClaudomir">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusClaudomir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusClaudomir&layout=compact&langs_count=8&theme=algolia"/>
