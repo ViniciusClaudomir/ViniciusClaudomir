@@ -28,6 +28,9 @@ Here are some ideas to get you started:
   <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></img>
   <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"></img>
   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+  <img src="https://www.selenium.dev/images/selenium_logo_large.png" width="110px"></img>
+
+  
  </p>
   
 💾 &nbsp;ODBC
