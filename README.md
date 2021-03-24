@@ -45,8 +45,6 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'"></img>
  </p>
 
-![Windows]()
-![Ubuntu]()
 
 ⚙️ &nbsp;GitHub Analytics
 <p align="start">
