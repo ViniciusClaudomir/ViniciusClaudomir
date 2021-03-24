@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 🛠 &nbsp;Software and tools skills 
-<p aligin="center">
+<p align="center">
   <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
   <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
   <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
