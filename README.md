@@ -38,7 +38,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"></img>
     <img src="https://img.shields.io/badge/postgres-%23316192.svg?&style=for-the-badge&logo=postgresql&logoColor=white"></img>
-    <img src="https://img.shields.io/badge/-mssql-brightgreen" width="60px"></img>
+    <img src="https://img.shields.io/badge/-MSSQL-brightgreen" width="60px"></img>
 
  </p>
 
