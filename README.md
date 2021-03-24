@@ -60,3 +60,10 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=ViniciusClaudomir&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+### Social media
+<a href="linkedin.com/in/vinicius-claudomir-26026017">
+  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin%20-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/>
+ </a>
+ 
+ 
