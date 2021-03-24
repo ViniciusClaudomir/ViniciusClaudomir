@@ -19,10 +19,7 @@ Here are some ideas to get you started:
     <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
     <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
 
-  <p/>
-    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
-    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></img>
-    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"></img>
+ 
   <p/>
     <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
     <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></img>
@@ -31,10 +28,13 @@ Here are some ideas to get you started:
      <img src="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"></img>
      <img src="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></img>
   <p/>
-   <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
-  <img src="https://www.selenium.dev/images/selenium_logo_large.png" width="110px"></img>
-  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></img>
-
+    <img src="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+    <img src="https://www.selenium.dev/images/selenium_logo_large.png" width="110px"></img>
+    <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></img>
+ <p/>
+    <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
+    <img src="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></img>
+    <img src="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"></img>
 
   
  </p>
