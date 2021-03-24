@@ -16,19 +16,19 @@ Here are some ideas to get you started:
 -->
 🛠 &nbsp;Software and tools skills 
 
-![Python](https://img.shields.io/badge/-Python-05122A?style=flat&logo=python)
-![JavaScript](https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript)
-![Django](https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20)
-![Flask](https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask)
-![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC)
-![Pandas](https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white")
-![Docker](https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white)
-![Jenkins](https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white)
-![Git](https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white)
-![Express](https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge)
-![Nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
-
+<img href="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
+<img href="  https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
+<img href="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
+<img href="https://img.shields.io/badge/-Flask-05122A?style=flat&logo=flask"></img>
+<img href="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></img>
+<img href="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></img>
+<img href="https://img.shields.io/badge/docker%20-%230db7ed.svg?&style=for-the-badge&logo=docker&logoColor=white"></img>
+<img href="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
+<img href="https://img.shields.io/badge/jenkins%20-%232C5263.svg?&style=for-the-badge&logo=jenkins&logoColor=white"></img>
+<img href="https://img.shields.io/badge/git%20-%23F05033.svg?&style=for-the-badge&logo=git&logoColor=white"></img>
+<img href="https://img.shields.io/badge/express.js%20-%23404d59.svg?&style=for-the-badge"></img>
+<img href="https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white"></img>
+  
 💾 &nbsp;ODBC
 
 ![Mysql](https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white)
