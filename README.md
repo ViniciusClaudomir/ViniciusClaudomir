@@ -9,7 +9,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 
 
-🛠 &nbsp;Software and tools skills 
+### 🛠 &nbsp;Software and tools skills 
  <p align="start" style="padding:10px;">
  
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
@@ -32,7 +32,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
  <img src="https://www.selenium.dev/images/selenium_logo_large.png" width="110px"></img>
  </p>
   
-💾 &nbsp;ODBC
+### 💾 &nbsp;ODBC
 <p align="start" style="padding:10px;">
     <img src="https://img.shields.io/badge/mysql-%2300f.svg?&style=for-the-badge&logo=mysql&logoColor=white"></img>
     <img src="https://img.shields.io/badge/oracle%20-%23F00000.svg?&style=for-the-badge&logo=oracle&logoColor=white"></img>
@@ -43,14 +43,14 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 
 
-💻 &nbsp; SO Plataform
+### 💻 &nbsp; SO Plataform
 <p align="start" style="padding:10px;">
     <img src="https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white"></img>
     <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white'"></img>
  </p>
 
 
-⚙️ &nbsp;GitHub Analytics
+### ⚙️ &nbsp;GitHub Analytics
 <p align="start">
 <a href="https://github.com/ViniciusClaudomir">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=ViniciusClaudomir&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
