@@ -7,7 +7,7 @@
 <p>🌱 Comecei a estudar programação ainda quando criança e sempre adorei entender como as coisas funcionam, e por isso desde sempre gostei de explorar novas tecnologias
 que possam me ajudar cada vez mais nos meus projetos.</p>
 
-<p>✍️ Ultimamente ando focado em aprender cada vez mais sobre desenvolvimento web, desde a aplicação ao deploy</p>
+<p>✍️ Ultimamente estou focado em aprender cada vez mais sobre desenvolvimento web, desde a aplicação ao deploy</p>
 
 <p>⚙️ Atualmente meu site <a href="http://thevinicius.com/">site</a> esta em Desenvolvimento :) 
 
