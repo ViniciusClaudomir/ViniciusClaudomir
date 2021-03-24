@@ -1,5 +1,7 @@
 ### Olá, Meu nome é Vinicius :)
 
+<img src="https://media.giphy.com/media/tHufwMDTUi20E/source.gif" width="280" height="280" align="right"></img>
+
 <p>🔭 Atualmente trabalho como desenvolvedor Python & JS, com foco em Desenvolvimento de RPA's e Soluções web.</p>
 
 <p>🌱 Comecei a estudar programação ainda quando criança e sempre adorei entender como as coisas funcionam, e por isso desde sempre gostei de explorar novas tecnologias
