@@ -9,7 +9,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 <p>✍️ Ultimamente estou focado em aprender cada vez mais sobre desenvolvimento web, desde a aplicação ao deploy</p>
 
-<p>⚙️ Atualmente meu site <a href="http://thevinicius.com/">site</a> esta em Desenvolvimento :) 
+<p>⚙️ Atualmente meu <a href="http://thevinicius.com/">site</a> esta em Desenvolvimento :) 
 
 
 ### 🛠 &nbsp;Software and tools skills 
