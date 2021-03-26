@@ -14,7 +14,6 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 ### 🛠 &nbsp;Software and tools skills 
  <p align="start" style="padding:10px;">
- <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
@@ -22,7 +21,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
  <img src="https://img.shields.io/badge/-Visual%20Studio%20Code-05122A?style=flat&logo=visual-studio-code&logoColor=007ACC"></img>
  <img src="https://img.shields.io/badge/-React-05122A?style=flat&logo=react"></img>
 
- 
+ <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img src="https://img.shields.io/badge/Jupyter%20-%23F37626.svg?&style=for-the-badge&logo=Jupyter&logoColor=white"></img>
  <img src="https://img.shields.io/badge/pandas%20-%23150458.svg?&style=for-the-badge&logo=pandas&logoColor=white"></img>
  <img src ="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white"></img>
