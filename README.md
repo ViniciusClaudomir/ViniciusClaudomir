@@ -14,7 +14,7 @@ que possam me ajudar cada vez mais nos meus projetos.</p>
 
 ### 🛠 &nbsp;Software and tools skills 
  <p align="start" style="padding:10px;">
- 
+ <img alt="C++" src="https://img.shields.io/badge/c++%20-%2300599C.svg?&style=for-the-badge&logo=c%2B%2B&ogoColor=white"/>
  <img src="https://img.shields.io/badge/-Python-05122A?style=flat&logo=python"></img>
  <img src="https://img.shields.io/badge/-JavaScript-05122A?style=flat&logo=javascript"></img>
  <img src="https://img.shields.io/badge/-Django-05122A?style=flat&logo=django&logoColor=092E20"></img>
